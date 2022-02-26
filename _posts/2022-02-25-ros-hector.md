@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/htb-writeup-unbalanced/unbalanced_logo.png
   teaser_home_page: true
-  icon: /assets/images/ros.png
+  icon: /assets/images/hackthebox.webp
 categories:
   - Robotic
 tags:  
@@ -60,3 +60,5 @@ You can control it with teleop_twist_keyboard.
 * `git clone https://github.com/ros-teleop/teleop_twist_keyboard`
 
 ## Test
+
+yes
