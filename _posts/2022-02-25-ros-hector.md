@@ -5,7 +5,7 @@ excerpt: "A port of hector quadrotor for ROS Noetic with Gazebo 11 in Ubuntu 20.
 date: 2022-03-25
 classes: wide
 header:
-  teaser: /assets/images/2022-02-25-ros-hector/taser.GIF
+  teaser: /assets/images/htb-writeup-unbalanced/unbalanced_logo.png
   teaser_home_page: true
   icon: /assets/images/ros.png
 categories:
@@ -17,7 +17,7 @@ tags:
   - Gazebo 11
 ---
 
-# hector_quadrotor ported to ROS Noetic & Gazebo 11
+## hector_quadrotor ported to ROS Noetic & Gazebo 11
 
 
 ***.:: First version, please tell me the issues or help me to fix it ::.***
