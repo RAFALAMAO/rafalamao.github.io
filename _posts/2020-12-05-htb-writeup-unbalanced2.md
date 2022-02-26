@@ -1,64 +1,23 @@
 ---
 layout: single
-title: Hector Quadrotor Ported - ROS Noetic
-excerpt: "A port of hector quadrotor for ROS Noetic with Gazebo 11 in Ubuntu 20."
-date: 2022-03-25
+title: 666 - Hack The Box
+excerpt: "To solve Unbalanced, we'll find configuration backups files in EncFS and after cracking the password and figuring out how EncFS works, we get the Squid proxy cache manager password that let us discover internal hosts. Proxying through Squid, we then land on a login page that uses Xpath to query an XML backend database. We perform Xpath injection to retrieve the password of each user, then port forward through the SSH shell to reach a Pi-Hole instance, vulnerable to a command injection vulnerability."
+date: 2020-12-05
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-unbalanced/unbalanced_logo.png
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - Robotic
+  - hackthebox
+  - infosec
 tags:  
-  - ROS
-  - Noetic
-  - Dron
-  - Gazebo 11
+  - rsync
+  - encfs
+  - squid
+  - xpath
+  - CVE-2020-11108
+  - command injection
 ---
 
-## hector_quadrotor ported to ROS Noetic & Gazebo 11
-
-
-***.:: First version, please tell me the issues or help me to fix it ::.***
-
-## Requirements
-
-I. You need the following packages before install `hector_quadrotor_noetic`.
-
-* unique_identifier:
-    ```sh
-    git clone https://github.com/ros-geographic-info/unique_identifier.git
-    ```
-* geographic_info:
-    ```sh
-    git clone https://github.com/ros-geographic-info/geographic_info.git
-    ```
-
-II. Build.
-```sh
-cd ~/catkin_ws && catkin_make
-```
-
-III. Clone `hector_quadrotor_noetic`.
-```sh
-git clone https://github.com/RAFALAMAO/hector_quadrotor_noetic.git
-```
-
-IV. Repeat step II.
-
-## Usage
-
-Run a simulation by executing the launch file in `hector_quadrotor_gazebo` and `hector_quadrotor_demo` packages (only these work at the momment, but you can try the other ones):
-
-* `roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch`
-* `roslaunch hector_quadrotor_demo outdoor_flight_gazebo.launch`
-* `roslaunch hector_quadrotor_demo outdoor_flight_gazebo_no_rviz.launch`
-* `roslaunch hector_quadrotor_demo two_drones_empty.launch`
-
-You can control it with teleop_twist_keyboard.
-* `git clone https://github.com/ros-teleop/teleop_twist_keyboard`
-
-## Test
-
-yes
+Holis
