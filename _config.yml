@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "RAFALAMAO"
-  avatar           : "/assets/images/avatar.png"
-  bio              : "ROS, Javascript, AI, Python"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "ROS, Javascript, AI, Python, C++"
   location         : "México"
   email            : "aaronjt@outlook.com"
   uri              :
