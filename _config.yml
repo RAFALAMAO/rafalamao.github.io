@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "haxor" # haxor "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RAFALAMAO.io"
+title                    : "Rafalamao.io"
 title_separator          : "-"
 name                     : "RAFALAMAO"
-description              : "ROS, Javascript, Python"
-url                      : "https://rafalamao.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "ROS, Javascript, Python, C++"
+url                      : "https://rafalamao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/RAFALAMAO" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/slae32.png"
+logo                     : "/assets/images/logo.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
