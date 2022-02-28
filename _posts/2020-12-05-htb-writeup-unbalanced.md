@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/htb-writeup-unbalanced/unbalanced_logo.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/rosf.png
 categories:
   - hackthebox
   - infosec
