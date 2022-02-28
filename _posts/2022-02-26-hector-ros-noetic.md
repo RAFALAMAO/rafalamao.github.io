@@ -5,7 +5,7 @@ excerpt: "A port of Hector Quadrotos to ROS Noetic version :)"
 date: 2022-02-26
 classes: wide
 header:
-  teaser: https://github.com/RAFALAMAO/hector-quadrotor-noetic/blob/main/imgs/gif.GIF
+  teaser: /assets/images/2022-02-26-hector-ros-noetic/gif.GIF
   teaser_home_page: true
   icon: /assets/images/ros.png
 categories:
