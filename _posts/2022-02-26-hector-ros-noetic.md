@@ -17,12 +17,17 @@ tags:
   - hector
   - quadrotor
   - ubuntu 20
+  - port
 ---
 
-## hector_quadrotor ported to ROS Noetic & Gazebo 11
 
+# hector_quadrotor ported to ROS Noetic & Gazebo 11
+
+<img src="imgs/dron_photo.png" height="250"/> <img src="imgs/dron_photo_rviz.png" height="250"/>
 
 ***.:: First version, please tell me the issues or help me to fix it ::.***
+
+I took part of this from __The Construct's__ [repo](https://bitbucket.org/theconstructcore/hector_quadrotor_sim/src/master/) and YouTube [chanel](https://www.youtube.com/channel/UCt6Lag-vv25fTX3e11mVY1Q).
 
 ## Requirements
 
@@ -63,4 +68,6 @@ You can control it with teleop_twist_keyboard.
 
 ## Test
 
-yes
+Here is a [video](https://www.youtube.com/watch?v=-2IWfZjqoNc) testing it:
+
+[![IMAGE ALT TEXT HERE](https://github.com/RAFALAMAO/hector_quadrotor_noetic/blob/main/imgs/gif.GIF)](https://www.youtube.com/watch?v=-2IWfZjqoNc)
