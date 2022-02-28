@@ -1,13 +1,13 @@
 ---
 layout: single
 title: Hector Quadrotor - ROS Noetic
-excerpt: "To solve Unbalanced, we'll find configuration backups files in EncFS and after cracking the password and figuring out how EncFS works, we get the Squid proxy cache manager password that let us discover internal hosts. Proxying through Squid, we then land on a login page that uses Xpath to query an XML backend database. We perform Xpath injection to retrieve the password of each user, then port forward through the SSH shell to reach a Pi-Hole instance, vulnerable to a command injection vulnerability."
+excerpt: "A port of Hector Quadrotos to ROS Noetic version :)"
 date: 2022-02-26
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-unbalanced/unbalanced_logo.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/ros.png
 categories:
   - hackthebox
   - infosec
