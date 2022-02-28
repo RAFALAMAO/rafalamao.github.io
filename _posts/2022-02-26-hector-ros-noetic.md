@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/2022-02-26-hector-ros-noetic/gif.GIF
   teaser_home_page: true
-  icon: /assets/images/ROS.png
+  icon: /assets/images/rosf.png
 categories:
   - ROS
   - Port
