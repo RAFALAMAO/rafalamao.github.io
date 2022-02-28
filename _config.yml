@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Rafalamao.io"
 title_separator          : "-"
 name                     : "RAFALAMAO"
-description              : "ROS, Javascript, Python, C++"
+description              : "ROS, Javascript, Python, C++, Music"
 url                      : "https://rafalamao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/RAFALAMAO" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "RAFALAMAO"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "ROS, Javascript, AI, Python, C++"
+  bio              : "ROS, Javascript, AI, Python, C++, Music"
   location         : "México"
   email            : "aaronjt@outlook.com"
   uri              :
