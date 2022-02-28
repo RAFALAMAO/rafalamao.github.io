@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hector Quadrotor - ROS Noetic
-excerpt: "A port of Hector Quadrotos to ROS Noetic version :)"
+excerpt: "Due hector quadrotor only have melodic version working, in this thread I generated a port of this dron simulator to work with ROS Noetic."
 date: 2022-02-26
 classes: wide
 header:
@@ -11,19 +11,20 @@ header:
 categories:
   - ROS
   - Port
-tags:  
+tags:
   - noetic
   - ros
   - hector
   - quadrotor
   - ubuntu 20
   - port
+  - drones
 ---
 
 
 # hector_quadrotor ported to ROS Noetic & Gazebo 11
 
-<img src="imgs/dron_photo.png" height="250"/> <img src="imgs/dron_photo_rviz.png" height="250"/>
+<img src="https://github.com/RAFALAMAO/hector-quadrotor-noetic/blob/main/imgs/dron_photo.png" height="250"/> <img src="imgs/dron_photo_rviz.png" height="250"/>
 
 ***.:: First version, please tell me the issues or help me to fix it ::.***
 
