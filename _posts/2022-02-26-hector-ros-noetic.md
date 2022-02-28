@@ -25,8 +25,8 @@ tags:
 # hector_quadrotor ported to ROS Noetic & Gazebo 11
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAFALAMAO/hector-quadrotor-noetic/main/imgs/dron_photo.png" width="250">
-  <img src="https://raw.githubusercontent.com/RAFALAMAO/hector-quadrotor-noetic/main/imgs/dron_photo_rviz.png" width="250">
+  <img src="https://raw.githubusercontent.com/RAFALAMAO/hector-quadrotor-noetic/main/imgs/dron_photo.png" width="350">
+  <img src="https://raw.githubusercontent.com/RAFALAMAO/hector-quadrotor-noetic/main/imgs/dron_photo_rviz.png" width="350">
 </p>
 
 ***.:: First version, please tell me the issues or help me to fix it ::.***
