@@ -75,4 +75,4 @@ You can control it with teleop_twist_keyboard.
 
 Here is a [video](https://www.youtube.com/watch?v=-2IWfZjqoNc) testing it:
 
-[![IMAGE ALT TEXT HERE](https://github.com/RAFALAMAO/hector_quadrotor_noetic/blob/main/imgs/gif.GIF)](https://www.youtube.com/watch?v=-2IWfZjqoNc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-2IWfZjqoNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
