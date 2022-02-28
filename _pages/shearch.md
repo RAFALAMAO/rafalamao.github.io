@@ -1,6 +1,6 @@
 ---
 title: "Search"
 layout: search
-permalink: /search/
+permalink: /searcher/
 author_profile: true
 ---
