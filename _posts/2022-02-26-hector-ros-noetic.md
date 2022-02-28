@@ -9,15 +9,14 @@ header:
   teaser_home_page: true
   icon: /assets/images/ros.png
 categories:
-  - hackthebox
-  - infosec
+  - ROS
+  - Port
 tags:  
-  - rsync
-  - encfs
-  - squid
-  - xpath
-  - CVE-2020-11108
-  - command injection
+  - noetic
+  - ros
+  - hector
+  - quadrotor
+  - ubuntu 20
 ---
 
 ## hector_quadrotor ported to ROS Noetic & Gazebo 11
