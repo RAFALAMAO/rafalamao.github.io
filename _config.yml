@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # haxor "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafalamao.io"
+title                    : "Rafalamao | Blog"
 title_separator          : "-"
 name                     : "RAFALAMAO"
 description              : "ROS, Javascript, Python, C++, Music"
