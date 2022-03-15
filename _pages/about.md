@@ -4,13 +4,13 @@ permalink: /about/
 layout: single
 ---
 
-<img src="https://raw.githubusercontent.com/RAFALAMAO/RAFALAMAO/main/portadita.JPG" width="3000">
+<img src="https://raw.githubusercontent.com/RAFALAMAO/RAFALAMAO/main/jeje.png" width="3000">
 
 ## Hi there! my name is Aarón (RAFALAMAO)
 
 ### I’m just a Mechatronic Engineer at [UPIITA](https://www.upiita.ipn.mx/) from México, and I love music \m/.
 
-### Check my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/perroconpelos) or [tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs) 
+### Check my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/perroconpelos) or [tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs)
 
 ### Or reach me via:
 
