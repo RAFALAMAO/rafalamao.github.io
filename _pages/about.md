@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-<img src="https://raw.githubusercontent.com/RAFALAMAO/RAFALAMAO/main/jeje.png" width="3000">
+<img src="https://raw.githubusercontent.com/RAFALAMAO/RAFALAMAO/main/portada2.gif" width="3000">
 
 ### Hi there! my name is Aarón (RAFALAMAO)
 
