@@ -2,7 +2,7 @@
 layout: single
 title: Hector Quadrotor - ROS Noetic
 excerpt: "Due hector quadrotor only have melodic version working, in this thread I generated a port of this dron simulator to work with ROS Noetic."
-date: 2022-04-01
+date: 2022-03-30
 classes: wide
 header:
   teaser: /assets/images/2022-02-26-hector-ros-noetic/gif.GIF
