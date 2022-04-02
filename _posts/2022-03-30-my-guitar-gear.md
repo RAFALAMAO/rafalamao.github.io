@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/2022-03-30-my-guitar-gear/guitarGearIcon.png
   teaser_home_page: true
-  icon: /assets/images/rosf.png
+  icon: /assets/images/musicIcon.jpg
 categories:
   - Music
   - Equipment
