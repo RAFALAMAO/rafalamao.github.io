@@ -1,7 +1,7 @@
 ---
 layout: single
 title: My Guitar Gear Rig
-excerpt: "How you can see, I love play surf music, so if you are interested in my pedals, guitar, guitar Strings, etc. You can review my guitar gear rig or equipment."
+excerpt: "As you can see, I love play surf music, so if you are interested in my pedals, guitar, guitar Strings, etc. You can review my guitar gear rig or equipment."
 date: 2022-03-30
 classes: wide
 header:
@@ -23,7 +23,9 @@ tags:
 
 # \m/ ..:: My Guitar Gear Rig ::.. \m/
 
-How you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
+<p style="color:#FF0000";>Red paragraph text</p>
+
+As you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
 
 ## My Principal Guitar Specs
 
