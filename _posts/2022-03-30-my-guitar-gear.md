@@ -23,7 +23,13 @@ tags:
 
 # \m/ ..:: My Guitar Gear Rig ::.. \m/
 
-<p style="color:#FF0000";>Red paragraph text</p>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 As you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
 
