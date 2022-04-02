@@ -26,13 +26,9 @@ tags:
 
 As you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
 
-<p align="left">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/myGuitarText.png">
-</p>
+## ..:: My Principal Guitar Specs ::..
 
-##
-
-### Guitar's Strings
+### ~~ Guitar's Strings ~~
 
 My hands usually sweat a lot, thus I need a good anti rust strings and Elixir are de best, I use a 0.10 - 0.46.
 
@@ -40,13 +36,13 @@ My hands usually sweat a lot, thus I need a good anti rust strings and Elixir ar
   <img src="/assets/images/2022-03-30-my-guitar-gear/Elixir.png" width="350">
 </p>
 
-## My Principal Pedals
+## ..:: My Principal Pedals ::..
 
-### Digitech RP355
+### ~~ Digitech RP355 ~~
 
-### SpringKing Reverb (Custom Delay Modified)
+### ~~ SpringKing Reverb (Custom Delay Modified) ~~
 <p align="center">
   <img src="/assets/images/2022-03-30-my-guitar-gear/springCrop.png" width="350">
 </p>
 
-## Conexions
+## ..:: Conexions ::..
