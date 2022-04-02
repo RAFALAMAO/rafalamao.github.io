@@ -20,16 +20,9 @@ tags:
   - equipment
 ---
 
-
-# \m/ ..:: My Guitar Gear Rig ::.. \m/
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<p align="center">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/miGuitarRigText.png" width="350">
+</p>
 
 As you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
 
