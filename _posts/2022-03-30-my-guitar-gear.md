@@ -1,7 +1,7 @@
 ---
 layout: single
 title: My Guitar Gear Rig - Music
-excerpt: "How you can see, I use to play surf music, so if you are interested in my pedals, guitar, chords, etc. You can review my guitar gear rig or equipment \m/."
+excerpt: "How you can see, I use to play surf music, so if you are interested in my pedals, guitar, chords, etc. You can review my guitar gear rig or equipment."
 date: 2022-03-30
 classes: wide
 header:
