@@ -56,5 +56,5 @@ I only use two pedals, a Digitech rp355 for overdrive, chorus and USB interface,
 ## ⊙─ Conexions ─⊙
 
 <p align="center">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/conexions.png" width="350">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/conexionsF.png">
 </p>
