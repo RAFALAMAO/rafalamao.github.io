@@ -21,7 +21,7 @@ tags:
 ---
 
 <p align="center">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/miGuitarRigText.png">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/miGuitarRigText.png"  width="350">
 </p>
 
 As you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
@@ -30,7 +30,7 @@ As you can see, I use to play surf music, so, if you are interested in my pedals
 
 I use a Cort G250 guitar with Mighty Mite coils.
 <p align="center">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/cort-g250-tab.png">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/cort-g250-tab.png" width="350">
 </p>
 
 ### ❖ Guitar's Strings
@@ -38,7 +38,7 @@ I use a Cort G250 guitar with Mighty Mite coils.
 My hands usually sweat a lot, thus I need a good anti rust strings and Elixir are de best, I use a 0.10 - 0.46.
 
 <p align="center">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/Elixir.png">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/Elixir.png" width="350">
 </p>
 
 ## ⊙─ My Principal Pedals ─⊙
@@ -46,11 +46,11 @@ I only use two pedals, a Digitech rp355 and a  SpringKing Reverb custom delay mo
 
 ### ❖ Digitech RP355
 <p align="center">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/RP355.png">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/RP355.png" width="350">
 </p>
 ### ❖ SpringKing Reverb (Custom Delay Modified)
 <p align="center">
-  <img src="/assets/images/2022-03-30-my-guitar-gear/springCrop.png">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/springCrop.png" width="350">
 </p>
 
 ## ⊙─ Conexions ─⊙
