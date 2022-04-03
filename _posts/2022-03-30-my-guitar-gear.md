@@ -28,7 +28,7 @@ As you can see, I use to play surf music, so, if you are interested in my pedals
 
 ## ⊙─ My Principal Guitar Specs ─⊙
 
-### ✺ Guitar's Strings
+### ❖ Guitar's Strings
 
 My hands usually sweat a lot, thus I need a good anti rust strings and Elixir are de best, I use a 0.10 - 0.46.
 
@@ -38,9 +38,9 @@ My hands usually sweat a lot, thus I need a good anti rust strings and Elixir ar
 
 ## ⊙─ My Principal Pedals ─⊙
 
-### ✺ Digitech RP355
+### ❖ Digitech RP355
 
-### ✺ SpringKing Reverb (Custom Delay Modified)
+### ❖ SpringKing Reverb (Custom Delay Modified)
 <p align="center">
   <img src="/assets/images/2022-03-30-my-guitar-gear/springCrop.png" width="350">
 </p>
