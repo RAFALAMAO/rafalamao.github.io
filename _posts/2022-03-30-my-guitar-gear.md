@@ -42,7 +42,7 @@ My hands usually sweat a lot, thus I need a good anti rust strings and Elixir ar
 </p>
 
 ## ⊙─ My Principal Pedals ─⊙
-I only use two pedals, a Digitech rp355 and a  SpringKing Reverb custom delay modified
+I only use two pedals, a Digitech rp355 for overdrive, chorus and USB interface, also a SpringKing Reverb custom delay modified
 
 ### ❖ Digitech RP355
 <p align="center">
@@ -54,3 +54,7 @@ I only use two pedals, a Digitech rp355 and a  SpringKing Reverb custom delay mo
 </p>
 
 ## ⊙─ Conexions ─⊙
+
+<p align="center">
+  <img src="/assets/images/2022-03-30-my-guitar-gear/conexions.png" width="350">
+</p>
