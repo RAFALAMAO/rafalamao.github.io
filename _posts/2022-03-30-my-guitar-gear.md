@@ -5,7 +5,7 @@ excerpt: "As you can see, I love play surf music, so if you are interested in my
 date: 2022-03-30
 classes: wide
 header:
-  teaser: /assets/images/2022-03-30-my-guitar-gear/guitarGearIcon.png
+  teaser: /assets/images/2022-03-30-my-guitar-gear/conexions.png
   teaser_home_page: true
   icon: /assets/images/musicIcon2.png
 categories:
