@@ -24,25 +24,25 @@ tags:
   <img src="/assets/images/2022-03-30-my-guitar-gear/miGuitarRigText.png">
 </p>
 
-As you can see, I use to play surf music, so, if you are interested in my pedals, guitar, guitar strings, etc. You can review my guitar gear rig or equipment in this post, let's go.
+As you can see, I usually play surf music, so, if you are interested in my pedals, guitar, strings, etc. You can review my guitar gear rig or equipment in this post, so... let's go.
 
 ## ⊙─ My Principal Guitar Specs ─⊙
 
-I use a Cort G250 guitar with Mighty Mite coils.
+I use a Cort G250 guitar with Mighty Mite coils, but humbucker pickups has a switch on the knob tone for change betwen single or humbucker.
 <p align="center">
   <img src="/assets/images/2022-03-30-my-guitar-gear/cort-g250-tab.png" width="400">
 </p>
 
 ### ❖ Guitar's Strings
 
-My hands usually sweat a lot, thus I need a good anti rust strings and Elixir are de best, I use a 0.10 - 0.46.
+My hands usually sweat a lot, thus I need a good anti rust strings and Elixir are de best for me, I use 0.10 - 0.46.
 
 <p align="center">
   <img src="/assets/images/2022-03-30-my-guitar-gear/Elixir.png" width="350">
 </p>
 
 ## ⊙─ My Principal Pedals ─⊙
-I only use two pedals, a Digitech rp355 for overdrive, chorus and USB interface, also a SpringKing Reverb custom delay modified
+I only use two pedals, a Digitech rp355 for overdrive, chorus and USB interface, also a SpringKing Reverb custom delay modified (I did the modification, I just followed [this tutorial](http://blog.utopianlabs.com/2017/04/danelectro-spring-king-delay-mod/) ) 
 
 ### ❖ Digitech RP355
 <p align="center">
