@@ -10,7 +10,7 @@ layout: single
 
 I’m a [UPIITA](https://www.upiita.ipn.mx/) Mechatronic engineer from Mexico, I love development, music and graphical design.
 
-I started with C / C ++, then Matlab, LabView, JavaScript, Python, C #, Java. Currently I am programming mainly in React technology.
+I started with C / C ++, then Matlab, LabView, JavaScript, Python. Currently I am programming mainly in React and NodeJS technology.
 
 I can work stationary, hybrid and remotely (preferably), both full-time and part-time.
 
